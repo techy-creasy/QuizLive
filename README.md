@@ -4,6 +4,14 @@ A full-stack, production-quality Kahoot-style live quiz platform. Hosts create q
 
 ---
 
+# 🌐 Live Demo
+
+**Frontend:** https://quiz-live-sepia.vercel.app
+
+**Backend API:** https://quizlive-9075.onrender.com
+
+---
+
 ## ✨ Features
 
 - **JWT authentication** — register, login, forgot/reset password, protected routes
